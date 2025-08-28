@@ -48,9 +48,10 @@ const Header: React.FC<HeaderProps> = ({ scrollToSection, aboutRef, servicesRef,
           className="md:hidden flex flex-col space-y-1"
           onClick={() => setIsMenuOpen(!isMenuOpen)}
         >
-          <span className="w-6 h-0.5 bg-[#ffcc29]"></span>
-          <span className="w-6 h-0.5 bg-[#ffcc29]"></span>
-          <span className="w-6 h-0.5 bg-[#ffcc29]"></span>
+          {/* <span className="w-6 h-0.5 bg-[#ffcc29]"></span> */}
+          <span className="w-6 h-0.5 bg-[#1E40AF]"></span>
+          <span className="w-6 h-0.5 bg-[#1E40AF]"></span>
+          <span className="w-6 h-0.5 bg-[#1E40AF]"></span>
         </button>
       </div>
 

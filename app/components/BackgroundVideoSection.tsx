@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 const BackgroundVideoSection = () => {
   return (
-    <section className="relative py-40">
+    <section className="relative mt-16 mb-4 py-40">
       <video
         autoPlay
         loop
