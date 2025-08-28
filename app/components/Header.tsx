@@ -57,7 +57,7 @@ const Header: React.FC<HeaderProps> = ({ scrollToSection, aboutRef, servicesRef,
       {/* Mobile Menu */}
       {isMenuOpen && (
         <div className="md:hidden bg-white shadow-lg absolute top-full left-0 right-0">
-          <div className="flex flex-col space-y-4 p-4">
+          <div className="flex flex-col items-center space-y-4 p-4">
             <button onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }); setIsMenuOpen(false); }} className="text-gray-700 hover:text-blue-600 transition-colors text-left">
               Home
             </button>
