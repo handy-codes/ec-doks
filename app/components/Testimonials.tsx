@@ -7,22 +7,22 @@ import Image from 'next/image';
 const Testimonials = () => {
   const testimonials = [
     {
-      name: 'John Doe',
+      name: 'Prince Owo',
       position: 'Hotel Manager',
       content: 'EC DOKS has been our trusted supplier for over 5 years. Their products are always of the highest quality and their service is exceptional.',
       avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80',
     },
     {
-      name: 'Jane Smith',
-      position: 'Procurement Director',
+      name: 'Jane Bryan',
+      position: 'Food & Bevearage Manager',
       content: 'We rely on EC DOKS for all our hotel supplies. Their delivery is always on time and their team is very professional.',
-      avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80',
+      avatar: 'https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=612x612&w=0&k=20&c=ZyfplfqcLIawKpER1c2BSlq5KGDgUuAW7MPoq1Xl4oQ=',
     },
     {
-      name: 'Michael Johnson',
+      name: 'Sonia Iwuh',
       position: 'Executive Chef',
       content: 'The steak sugar and chafing gas from EC DOKS are top-notch. I highly recommend them to any hotel or restaurant.',
-      avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80',
+      avatar: 'https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=612x612&w=0&k=20&c=ZyfplfqcLIawKpER1c2BSlq5KGDgUuAW7MPoq1Xl4oQ=',
     },
   ];
 
